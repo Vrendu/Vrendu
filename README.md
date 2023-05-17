@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=Vrendu&theme=tokyonight
+![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrendu&theme=tokyonight)
 
 <!--
 **Vrendu/Vrendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
