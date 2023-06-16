@@ -1,4 +1,4 @@
-<!-- ![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrendu&theme=tokyonight) -->
+
 
 <!--
 **Vrendu/Vrendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Vamshi Renduchintala, and I am a full stack software engineer graduating from App Academy. I previously worked as a scientist at a molecular diagnostics company called Cepheid, before deciding to pursue my true interest and make the switch to software development. My primary experience so far is in developing fully functioning web applications utilizing React and Redux frontend, along with Ruby on Rails backend / Node.js backend. 
+
+In my free time, I love fitness, travel, spending time outdoors, concerts, and whatever latest hobby I've picked up!
+
+![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrendu&theme=tokyonight)
