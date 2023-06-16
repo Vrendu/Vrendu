@@ -19,3 +19,9 @@ My name is Vamshi Renduchintala, and I am a full stack software engineer graduat
 In my free time, I love fitness, travel, spending time outdoors, concerts, and whatever latest hobby I've picked up!
 
 ![Vamshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vrendu&theme=tokyonight)
+
+Some of my projects: 
+
+1) Willow https://willow-vbvg.onrender.com/
+2) Smooth  https://smooth.onrender.com/
+3) Deep Space Destroyers https://vrendu.github.io/Deep-Space-Destroyers/
