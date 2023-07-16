@@ -20,6 +20,7 @@ In my free time, I love fitness, travel, spending time outdoors, concerts, and w
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Vrendu&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+
 Some of my projects: 
 
 1) Willow https://willow-vbvg.onrender.com/
