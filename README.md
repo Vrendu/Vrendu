@@ -18,7 +18,6 @@ My name is Vamshi Renduchintala, and I am a full stack software engineer graduat
 
 In my free time, I love fitness, travel, spending time outdoors, concerts, and whatever latest hobby I've picked up!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vrendu&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
 Some of my projects: 
