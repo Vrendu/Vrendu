@@ -14,14 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Vamshi Renduchintala, and I am a full stack software engineer graduating from App Academy. I previously worked as a scientist at a molecular diagnostics company called Cepheid, before deciding to pursue my true interest and make the switch to software development. My primary experience so far is in developing fully functioning web applications utilizing React and Redux frontend, along with Ruby on Rails backend / Node.js backend. 
+My name is Vamshi Renduchintala, and I am a full stack software engineer graduating from App Academy. I previously worked as a scientist at a molecular diagnostics company called Cepheid, before deciding to pursue my true interest and make the switch to software development. My primary experience so far is in developing fully functioning web applications utilizing React, Node.js, Express.js, Ruby on Rails, Flask, Python, and various other tools and technologies.  
 
 In my free time, I love fitness, travel, spending time outdoors, concerts, and whatever latest hobby I've picked up!
 
-
-
-Some of my projects: 
-
-1) Willow https://willow-vbvg.onrender.com/
-2) Smooth  https://smooth.onrender.com/
-3) Deep Space Destroyers https://vrendu.github.io/Deep-Space-Destroyers/
